@@ -1,13 +1,12 @@
-## Nazareno Sacchi
-
-You can use the [editor on GitHub](https://github.com/nazago/personal-website/edit/master/index.md) to maintain and preview the content for your website
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Personal Website
 
 
 ### Education
-
-
+EPFL
+Politecnico di Torino
+Politechnic of Saint Petersburg
+Grenoble INP Phelma
+Liceo classico Tulliano (high school humanistic path)
 
 ### Experience
 
@@ -15,33 +14,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Projects
 
+Algorithms for music processing
+
 ### Motivations
-
+I've been always curious about how a computer works, and what is its fundamental unit. From here I discovered the world of electronics and all the amazing thing we can do with it!
+### Languages
+Italian (Native Speaker)
+English (IELTS C1-C2)
+French (B2)
 ### Hobbies
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nazago/personal-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Electronics
+Geoeconomics
+HBR topics
+Draw and classical guitar
