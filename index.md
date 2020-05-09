@@ -8,23 +8,23 @@
 * Grenoble INP Phelma
 * Liceo classico Tulliano (high school humanistic path)
 
-### Experience
+## Experience
 * Innovation Designer at OpenPMI
 * Vicepresident AEGEE-Turin
 * Moderator at Visionary Days
 
-#### Projects
+## Projects
 
 * Algorithms for music processing
 * 3D Piezo-electric Microactuator
 
-##### Motivations
+## Motivations
 I've been always curious about how a computer works, and what is its fundamental unit. From here I discovered the world of electronics and all the amazing thing we can do with it!
-###### Languages
+### Languages
 * Italian (Native Speaker)
 * English (IELTS C1-C2)
 * French (B2)
-######## Hobbies
+### Hobbies
 * Electronics
 * Geoeconomics
 * HBR topics
