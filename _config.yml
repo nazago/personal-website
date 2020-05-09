@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: [Nazareno Sacchi]
 description: [Nanotechnology enthusiast, always looking for challenges]
-logo: [❮img src="PHOTO-min.JPG" width="30" ❯]
+logo: ![]PHOTO-min.JPG
