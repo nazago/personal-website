@@ -19,11 +19,13 @@
 * 3D Piezo-electric Microactuator
 
 ## Motivations
-I've been always curious about how a computer works, and what is its fundamental unit. From here I discovered the world of electronics and all the amazing thing we can do with it!
+I've been always curious about how a computer works, and what is its fundamental unit. From here I discovered the world of electronics and all the amazing thing we can do with it.
+
 ### Languages
 * Italian (Native Speaker)
 * English (IELTS C1-C2)
 * French (B2)
+
 ### Hobbies
 * Electronics
 * Geoeconomics
